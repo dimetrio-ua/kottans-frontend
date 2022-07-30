@@ -28,6 +28,8 @@ Here is a progress:
 
 <details>
 <summary>Linux CLI and Networking Progress</summary>
+Linux Survival Guide was pretty interesting and had an nice old-school charm, like in DOS childhood.
+![The final window of LSG](/img/linuxsurvival.jpg)
 </details>
 
  - [ ] 2.VCS (hello gitty), GitHub and Collaboration
