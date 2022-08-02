@@ -57,10 +57,11 @@ To be able to say where and how I will use the knowledge from this article, I sh
 
 </details>
 
+## Git Collaboration
  - [x] 2.VCS (hello gitty), GitHub and Collaboration
 <details>
 <summary>VCS (hello gitty), GitHub and Collaboration Progress</summary>
-
+  
 1. My Coursera Git Intro Weeks 3 & 4 progress:
 
 <img src="/task_git_collaboration/Coursera_GitIntro_Week3.png" alt="Coursera Git Intro Week 3" width="800">
@@ -79,7 +80,9 @@ This kung-fu with juggling a lot of colored circles (commits), moving them back 
 Often, too much functionality gets you stuck. And on these training exercises, there were activities that I have so far had difficulty imagining in real work. Of course, only practice will strengthen my skills and perhaps trigger the need for more complex operations with Git.
 
 </details>
- 
+
+  - [ ] 3.Front-End Basics (In progress...)
+
 <details>
 <summary> Front-End Basics</summary> 
 
