@@ -21,10 +21,16 @@ Here is a progress:
 I like it and I've learned that when you're learning Git, it's not always good to use just the terminal for better understanding. While taking the Udasity course, I also used the GUI **GitKraken**, which not only provides a terminal for entering commands, but also visualizes the commit tree and file folders very well, which helps a lot in learning as well.
 *By the way, I didn't really like the **GitHub Desktop** app, as it seemed to me rather limited in functionality and the visual part of the process demonstration.* :smile:
 
+Plus, I've passed Coursera Git Intro course and here screens of my first two weeks:
+
+<img src="/task_git_basics/Coursera_GitIntro_Week1.png" alt="Coursera Git Intro Week 1" width="800">
+
+<img src="/task_git_basics/Coursera_GitIntro_Week2.png" alt="Coursera Git Intro Week 2" width="800">
+
 2. Here is a progress at learngitbranching.js.org:
 
-![This is my progress at learngitbranching.js.org Basics](/task_git_basics/learngitbranching-1.jpg)
-![and learngitbranching.js.org Remote Repositories](/task_git_basics/learngitbranching-2.jpg)
+![This is my progress at learngitbranching.js.org Basics](/task_git_basics/learngitbranching-main.jpg)
+![and learngitbranching.js.org Remote Repositories](/task_git_basics/learngitbranching-remote.jpg)
 
 *As it seems to me, although visually all these colored circles look logical and nice, but the level of understanding of these tutorials for me personally is worse than the classical course, as was in Udasity, where everything is shown by real examples. As I see it, even the official Git documentation comes out clearer than these exercises. I guess I'm a bit of a retard.*:grimacing:
 
@@ -51,9 +57,27 @@ To be able to say where and how I will use the knowledge from this article, I sh
 
 </details>
 
- - [ ] 2.VCS (hello gitty), GitHub and Collaboration
+ - [x] 2.VCS (hello gitty), GitHub and Collaboration
 <details>
 <summary>VCS (hello gitty), GitHub and Collaboration Progress</summary>
+
+1. My Coursera Git Intro Weeks 3 & 4 progress:
+
+<img src="/task_git_collaboration/Coursera_GitIntro_Week3.png" alt="Coursera Git Intro Week 3" width="800">
+
+<img src="/task_git_collaboration/Coursera_GitIntro_Week4.png" alt="Coursera Git Intro Week 4" width="800">
+
+2. Here is a progress at advanced parts of the learngitbranching.js.org:
+
+![This is my progress at learngitbranching.js.org Main Advanced](/task_git_collaboration/learngitbranching-main-adv.jpg)
+![and learngitbranching.js.org Remote Repositories Advanced](/task_git_collaboration/learngitbranching-remote-adv.jpg)
+
+Even considering that I took all these classes, of course I can't say that everything made perfect sense to me. Even so, it's not so much clear how exactly I can apply it all right now. I'm pretty sure that I can definitely use the git for my project right now and use the basic functions. Commit, make 1-2 branches and merge them, update my local and remote repository. Participate in the public repository a bit. Probably no more than that for now.
+
+This kung-fu with juggling a lot of colored circles (commits), moving them back and forth and etc. I don't dare to do that in a real project right now. Rather, I'm going to try to go in small and incremental steps.
+
+Often, too much functionality gets you stuck. And on these training exercises, there were activities that I have so far had difficulty imagining in real work. Of course, only practice will strengthen my skills and perhaps trigger the need for more complex operations with Git.
+
 </details>
  
 <details>
