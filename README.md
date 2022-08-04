@@ -3,12 +3,12 @@
 #### Hello! My name is Dmytro. I have previously taken web front-end development courses (including Git basics), but now I want to update and strengthen my knowledge so that I can really try to switch to this new kind of work.
 ---
 # Stage_0
-  ## General
+  ## General [:arrow_double_down:](#general)
  - [x] **Git Basics**
  - [x] **Linux CLI and Networking**
  - [x] **VCS (hello gitty), GitHub and Collaboration**
   
-  ## Front-End Basics
+  ## Front-End Basics [:arrow_double_down:](#front-end-basics)
  - [x] **Intro to HTML & CSS**
  - [ ] **Responsive Web Design** (Pending)
  - [ ] **HTML & CSS Practice**
@@ -31,7 +31,7 @@ Here is my steps...
   
 ## Git
  
-1. I've passed Udacity ["Version Control with Git" course](https://learn.udacity.com/courses/ud123). 
+**1. I've passed Udacity ["Version Control with Git" course](https://learn.udacity.com/courses/ud123).**
 
   <details>
     <summary>Udacity Version Control with Git Screenshot</summary>
@@ -53,7 +53,7 @@ Plus, I've passed Coursera Git Intro course and here screens of my first two wee
     <img src="/task_git_basics/Coursera_GitIntro_Week2.png" alt="Coursera Git Intro Week 2" width="800">
   </details>
 
-2. Here is a progress at learngitbranching.js.org:
+**2. Here is a progress at learngitbranching.js.org:**
 
   <details>
     <summary>learngitbranching.js.org Basics Screenshot</summary>
@@ -65,13 +65,13 @@ Plus, I've passed Coursera Git Intro course and here screens of my first two wee
     <img src="/task_git_basics/learngitbranching-remote.jpg" alt="learngitbranching.js.org Remote Repositories" width="800">
   </details>
 
-> *As it seems to me, although visually all these colored circles look logical and nice, but the level of understanding of these tutorials for me personally is worse than the classical course, as was in Udasity, where everything is shown by real examples. As I see it, even the official Git documentation comes out clearer than these exercises. I guess I'm a bit of a retard.*:grimacing:
+> *As it seems to me, although visually all these colored circles look logical and nice, but the level of understanding of these tutorials for me personally is worse than the classical course, as was with Udacity, where everything is shown by real examples. As I see it, even the official Git documentation comes out clearer than these exercises. I guess I'm a bit of a retard.*:grimacing:
 
 ---
   
 ## Linux CLI, and HTTP
   
-1. Linux Survival Guide was pretty interesting and had an nice old-school charm, like in DOS childhood.
+**1. Linux Survival Guide**
 
   <details>
     <summary>4 Steps of Linux Survival Guide Screenshot</summary>
@@ -83,15 +83,19 @@ Plus, I've passed Coursera Git Intro course and here screens of my first two wee
     <img src="/task_linux_cli/linuxsurvival.jpg" alt="The final window of LSG" width="800">
   </details>
 
-2. The HTTP part...
+> It was pretty interesting and had an nice old-school charm, like in DOS childhood. Using the command line is not new to me, but here I learned better the basic Linux commands which Coursera's lecturer used in the Git Intro lessons.
+
+**2. The HTTP part...**
 
 > Although in the 2nd part of this article the authors wrote that it was more complicated than the 1st, I found the second part to be much clearer. Maybe because it was more familiar to me than the first one, which was very dry in its description of the request/response messages. I'm going to take a course on Udacity [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256) from the optional materials, where I hope the client-server interaction chain will be described more consistently and with more lively examples.
  
 > To be able to say where and how I will use the knowledge from this article, I should probably go deeper into the development process itself. The Linux command line is an understandable scenario that is very similar to using the command line for Git. And the HTTP protocol theory will come in handy, as I expect, when we will move on to JS.
 
+---
+
 ## Git Collaboration
   
-1. Coursera Git Intro Weeks 3 & 4
+**1. Coursera Git Intro Weeks 3 & 4**
 
   <details>
     <summary>Coursera Git Intro Week 3 Screenshot</summary>
@@ -103,7 +107,7 @@ Plus, I've passed Coursera Git Intro course and here screens of my first two wee
     <img src="/task_git_collaboration/Coursera_GitIntro_Week4.png" alt="Coursera Git Intro Week 4" width="800">
   </details>
 
-2. Advanced parts of the learngitbranching.js.org
+**2. Advanced parts of the learngitbranching.js.org**
 
   <details>
     <summary>learngitbranching.js.org Main Advanced Screenshot</summary>
@@ -123,41 +127,44 @@ Plus, I've passed Coursera Git Intro course and here screens of my first two wee
 
 ---
 
-## Intro to HTML and CSS
+# Front-End Basics
 
-1. Coursera HTML, CSS, and Javascript for Web Developers Weeks 1 & 2
+## Intro to HTML and CSS
+**1. Coursera HTML, CSS, and Javascript for Web Developers Weeks 1 & 2**
 
   <details>
     <summary>Coursera Intro to HTML & CSS Week 1 Screenshot</summary>
-    <img src="/task_html_css_intro/coursera_html-css-js_week1" alt="Coursera Intro to HTML & CSS Week 1" width="800">
+    <img src="/task_html_css_intro/coursera_html-css-js_week1.jpg" alt="Coursera Intro to HTML & CSS Week 1" width="800">
   </details>
 
   <details>
     <summary>Coursera Intro to HTML & CSS Week 2 Screenshot</summary>
-    <img src="/task_html_css_intro/coursera_html-css-js_week2" alt="Coursera Intro to HTML & CSS Week 2" width="800">
+    <img src="/task_html_css_intro/coursera_html-css-js_week2.jpg" alt="Coursera Intro to HTML & CSS Week 2" width="800">
   </details>
+  
+> Цей розділ для мене виявився повторенням того, що я колись вже вчив декілька років тому. Це безперечно потрібно було зробити, оскільки коли ти не використовуєш знання постійно та й ще з перервою, то навички знижуються.
 
-2. Codecademy Learn HTML
+**2. Codecademy Learn HTML**
 
   <details>
     <summary>Codacademy Learn HTML Course Screenshot</summary>
-    <img src="/task_html_css_intro/codacademy_learn-html" alt="Codacademy Learn HTML Course Progress" width="800">
+    <img src="/task_html_css_intro/codacademy_learn-html.jpg" alt="Codacademy Learn HTML Course Progress" width="800">
   </details>
+  
+> Поєднання цих базових курсів мені здається вдалим. Після більш теоретичного від Coursera відразу переходиш до того самого матеріалу на Codecademy, але вже використовуєш ці базові речі на практиці та більше закріплюєш матеріал.
 
-3. Codecademy Learn CSS
+**3. Codecademy Learn CSS**
 
   <details>
     <summary>Codacademy Learn CSS Course Screenshot</summary>
-    <img src="/task_html_css_intro/codacademy_learn-css" alt="Codacademy Learn CSS Course Progress" width="800">
+    <img src="/task_html_css_intro/codacademy_learn-css.jpg" alt="Codacademy Learn CSS Course Progress" width="800">
   </details>
-
-> Цей розділ для мене виявився повторенням того, що я колись вже вчив декілька років тому. Це безперечно потрібно було зробити, оскільки коли ти не використовуєш знання постійно та й ще з перервою, то навички знижуються. В принципі, все, що я тут пройшов, мені було відоме, але деякі аспекти я трохи краще зрозумів. Наприклад, властивість *position* точно потребувала повторення. Безперечно, все що увійшло в цей розділ, я буду використовувати, оскільки це абсолютні основи, на яких тримається HTML та CSS (ну, можливо тільки *float* не дуже часто, знаючи, яка тема попереду і які сучасні тенденції :wink:).
+     
+> В принципі, все, що я тут пройшов, мені було відоме, але деякі аспекти я трохи краще зрозумів. Наприклад, властивість ```"position"``` точно потребувала повторення. Безперечно, все що увійшло в цей розділ, я буду використовувати, оскільки це абсолютні основи, на яких тримається HTML та CSS (ну, можливо тільки ```"float"``` не дуже часто, знаючи, яка тема попереду і які сучасні тенденції :wink:).
 
 ---
 
-I'm around here somewhere :point_right:
-
-- [ ] 4.Responsive Web Design
+- [ ] 4.Responsive Web Design :point_left: I'm around here somewhere
 - [ ] 5.HTML & CSS Practice
 - [ ] 6.JavaScript Basics
 - [ ] 7.Document Object Model 
