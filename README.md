@@ -11,8 +11,8 @@
   ## Front-End Basics [:arrow_double_down:](#front-end-basics)
  - [x] **Intro to HTML & CSS**
  - [x] **Responsive Web Design**
- - [ ] **HTML & CSS Practice** (Pending)
- - [ ] **JavaScript Basics**
+ - [x] **HTML & CSS Practice**
+ - [ ] **JavaScript Basics** (Pending)
  - [ ] **Document Object Model**
 
   ## Advanced Topics
@@ -197,10 +197,17 @@ Plus, I've passed [Coursera Git Intro course](https://www.coursera.org/learn/int
 
 > Гра дуже схожа на Froggy і сама по собі теж цікава та демонструє Grid простішим, ніж він здається, якщо подивитися вищезгадані уроки. Практика потім покаже, як воно насправді.
 
+## HTML & CSS Practice
+[Demo](https://dmytro-botnarenko.github.io/hooli-style-popup)  
+[Source Files](https://github.com/dmytro-botnarenko/hooli-style-popup)
+> В цьому проєкті для мене новим стало використання чекбоксів у якості перемикачів відображення інших елементів. Також я вперше сам спробував робити сітку на `grid`, раніше мав справу тільки з `flex`.
+
+> Що було незвичним - так це вибудовувати вертикальну структуру, яка буде діяти тільки зверху-вниз. Спочатку здається, що в CSS ти зможеш все означити і зробити звязок взаємодії в любому напрямі, але після декількох варіантів усвідомлюєш, що це неможливо. Відносною особливістю мого проєкту вийшло ще те, що я вирішив (на свою голову)) додати кнопку "Less", яка б згортала вікно попапу в початковий стан. Дуже рідко, хто з інших студентів робив її, а якщо і робив, то не розібрався з тим, що фокусування з клавіатури працює в них некоректно у розгорнутому вікні. І виявилося, що ця кнопка додала чимало питань для мене, які саме пов'язані з неможливою зворотньою дією та фокусуванням (фактично чекбокс довелося використовувати один із двома `label`).  
+
+> Безперечно `grid` та `flex`, думаю, що без них зараз майже ніяк. Взагалі, враховуючи мій невеликий досвід, все з цього проєкту буде мені в нагоді і так чи інакше буде використовуватися в майбутньому.
 ---
 
-- [ ] 5.HTML & CSS Practice :point_left: I'm around here somewhere
-- [ ] 6.JavaScript Basics
+- [ ] 6.JavaScript Basics  :point_left: I'm around here somewhere
 - [ ] 7.Document Object Model 
 - [ ] 8.Building a Tiny JS World (pre-OOP)
 - [ ] 9.Object oriented JS 
