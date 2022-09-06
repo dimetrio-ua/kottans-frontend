@@ -12,8 +12,8 @@
  - [x] **Intro to HTML & CSS**
  - [x] **Responsive Web Design**
  - [x] **HTML & CSS Practice**
- - [ ] **JavaScript Basics** (Pending)
- - [ ] **Document Object Model**
+ - [x] **JavaScript Basics** 
+ - [ ] **Document Object Model** (Pending)
 
   ## Advanced Topics
  - [ ] **Building a Tiny JS World (pre-OOP)**
@@ -133,13 +133,13 @@ Plus, I've passed [Coursera Git Intro course](https://www.coursera.org/learn/int
 **1. [Coursera HTML, CSS, and Javascript for Web Developers Course](https://www.coursera.org/learn/html-css-javascript-for-web-developers) Weeks 1 & 2**
 
   <details>
-    <summary>Coursera Intro to HTML & CSS Week 1 Screenshot</summary>
-    <img src="/task_html_css_intro/coursera_html-css-js_week1.jpg" alt="Coursera Intro to HTML & CSS Week 1" width="800">
+    <summary>Coursera HTML, CSS, and Javascript for Web Developers Week 1 Screenshot</summary>
+    <img src="/task_html_css_intro/coursera_html-css-js_week1.jpg" alt="Coursera HTML, CSS, and Javascript for Web Developers Week 1" width="800">
   </details>
 
   <details>
-    <summary>Coursera Intro to HTML & CSS Week 2 Screenshot</summary>
-    <img src="/task_html_css_intro/coursera_html-css-js_week2.jpg" alt="Coursera Intro to HTML & CSS Week 2" width="800">
+    <summary>Coursera HTML, CSS, and Javascript for Web Developers Week 2 Screenshot</summary>
+    <img src="/task_html_css_intro/coursera_html-css-js_week2.jpg" alt="Coursera HTML, CSS, and Javascript for Web Developers Week 2" width="800">
   </details>
   
 > Цей розділ для мене виявився повторенням того, що я колись вже вчив декілька років тому. Це безперечно потрібно було зробити, оскільки коли ти не використовуєш знання постійно та й ще з перервою, то навички знижуються.
@@ -205,10 +205,49 @@ Plus, I've passed [Coursera Git Intro course](https://www.coursera.org/learn/int
 > Що було незвичним - так це вибудовувати вертикальну структуру, яка буде діяти тільки зверху-вниз. Спочатку здається, що в CSS ти зможеш все означити і зробити звязок взаємодії в любому напрямі, але після декількох варіантів усвідомлюєш, що це неможливо. Відносною особливістю мого проєкту вийшло ще те, що я вирішив (на свою голову)) додати кнопку "Less", яка б згортала вікно попапу в початковий стан. Дуже рідко, хто з інших студентів робив її, а якщо і робив, то не розібрався з тим, що фокусування з клавіатури працює в них некоректно у розгорнутому вікні. І виявилося, що ця кнопка додала чимало питань для мене, які саме пов'язані з неможливою зворотньою дією та фокусуванням (фактично чекбокс довелося використовувати один із двома `label`).  
 
 > Безперечно `grid` та `flex`, думаю, що без них зараз майже ніяк. Взагалі, враховуючи мій невеликий досвід, все з цього проєкту буде мені в нагоді і так чи інакше буде використовуватися в майбутньому.
+
+## JS Basics
+**1. [Coursera HTML, CSS, and Javascript for Web Developers Course](https://www.coursera.org/learn/html-css-javascript-for-web-developers) Week 4**
+
+  <details>
+    <summary>Coursera HTML, CSS, and Javascript for Web Developers Week 4 Screenshot</summary>
+    <img src="/task_js_basics/coursera_html-css-js_week4.jpg" alt="Coursera HTML, CSS, and Javascript for Web Developers Week 4" width="800">
+  </details>
+  
+> Оскільки всі курси JS для мене зараз майже як нова книга, то виділяти щось після цього розділу я не можу. Хоча викладач і робив наче поступовий план ознайомлення, для деяких розділів точно не завадять повторні теоретичні та практичні заняття десь на інших курсах або ресурсах.
+
+**2. [Freecodecamp JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)**
+
+  <details>
+    <summary>Freecodecamp Basic JavaScript Challenges Screenshot</summary>
+    <img src="/task_js_basics/freecodecamp_js_basic-javascript.jpg" alt="Freecodecamp Basic JavaScript Challenges Screenshot" width="800">
+  </details>
+  <details>
+    <summary>Freecodecamp ES6 Challenges Screenshot</summary>
+    <img src="/task_js_basics/freecodecamp_js_es6.jpg" alt="Freecodecamp ES6 Challenges Screenshot" width="800">
+  </details>
+  <details>
+    <summary>Freecodecamp Basic Data Structures Challenges Screenshot</summary>
+    <img src="/task_js_basics/freecodecamp_js_basic-data-structures.jpg" alt="Freecodecamp Basic Data Structures Challenges Screenshot" width="800">
+  </details>
+  <details>
+    <summary>Freecodecamp Basic Algorithm Scripting Challenges Screenshot</summary>
+    <img src="/task_js_basics/freecodecamp_js_basic-algorithm-scripting.jpg" alt="Freecodecamp Basic Algorithm Scripting Challenges Screenshot" width="800">
+  </details>
+  <details>
+    <summary>Freecodecamp Functional Programming Challenges Screenshot</summary>
+    <img src="/task_js_basics/freecodecamp_js_functional-programming.jpg" alt="Freecodecamp Functional Programming Challenges Screenshot" width="800">
+  </details>
+  <details>
+    <summary>Freecodecamp Intermediate Algorithm Scripting Challenges Screenshot</summary>
+    <img src="/task_js_basics/freecodecamp_js_intermediate-algorithm-scripting.jpg" alt="Freecodecamp Intermediate Algorithm Scripting Challenges Screenshot" width="800">
+  </details>
+
+> Хоча всі завдання за списком пройдені, але не можна казати, що все зрозуміло та запам'яталося. Більшість завдань зміг зробити самотужки, але було й багатенько, де доводилося шукати рішень та підглядати потім в Hints. Особливо поки що не вистачає розуміння та систематичної репетативної практики у роботі з об'єктами, методами `map`, `reduce` та використанням вкладених функцій. Передостаннє завдання Make a Person у Intermediate Algorithm Scripting було наче "баран на нові ворота". Зовсім не зрозуміло, що робити, не те що "як?". Далося й те мабуть, що за нашим списком дій було пропущено поки що розділ ООР, де можна було взяти необхідні зачіпки. Тут все тільки починається і ще вчити та особливо тренуватись ще дуже багато. Посилання на додаткові матеріали точно будуть в нагоді зараз.
+
 ---
 
-- [ ] 6.JavaScript Basics  :point_left: I'm around here somewhere
-- [ ] 7.Document Object Model 
+- [ ] 7.Document Object Model :point_left: I'm around here somewhere
 - [ ] 8.Building a Tiny JS World (pre-OOP)
 - [ ] 9.Object oriented JS 
 - [ ] 10.OOP exercise 
