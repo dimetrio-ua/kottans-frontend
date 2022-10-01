@@ -1,36 +1,42 @@
 # kottans-frontend
 
-#### Hello! My name is Dmytro. I have previously taken web front-end development courses (including Git basics), but now I want to update and strengthen my knowledge so that I can really try to switch to this new kind of work.
+#### Hello! My name is Dmytro. I have previously taken web front-end development courses (including Git basics), but now I want to update and strengthen my knowledge so that I can really try to switch to this new kind of work
+
 ---
+
 # Stage_0
-  ## General [:arrow_double_down:](#general)
- - [x] **Git Basics**
- - [x] **Linux CLI and Networking**
- - [x] **VCS (hello gitty), GitHub and Collaboration**
+
+## General [:arrow_double_down:](#general)
+
+- [x] **Git Basics**
+- [x] **Linux CLI and Networking**
+- [x] **VCS (hello gitty), GitHub and Collaboration**
   
-  ## Front-End Basics [:arrow_double_down:](#front-end-basics)
- - [x] **Intro to HTML & CSS**
- - [x] **Responsive Web Design**
- - [x] **HTML & CSS Practice**
- - [x] **JavaScript Basics** 
- - [ ] **Document Object Model** (Pending)
+## Front-End Basics [:arrow_double_down:](#front-end-basics)
 
-  ## Advanced Topics
- - [ ] **Building a Tiny JS World (pre-OOP)**
- - [ ] **Object oriented JS**
- - [ ] **OOP exercise**
- - [ ] **Offline Web Applications**
- - [ ] **Memory pair game**
- - [ ] **Website Performance Optimization**
- - [ ] **Friends App**
+- [x] **Intro to HTML & CSS**
+- [x] **Responsive Web Design**
+- [x] **HTML & CSS Practice**
+- [x] **JavaScript Basics**
+- [ ] **Document Object Model** (Pending, PR not reviewed)
 
---- 
+## Advanced Topics
+
+- [ ] **Building a Tiny JS World (pre-OOP)** (Pending)
+- [ ] **Object oriented JS** (Pending)
+- [ ] **OOP exercise**
+- [ ] **Offline Web Applications**
+- [ ] **Memory pair game**
+- [ ] **Website Performance Optimization**
+- [ ] **Friends App**
+
+---
 Here is my steps...
 
 # General
   
 ## Git
- 
+
 **1. I've passed Udacity ["Version Control with Git" course](https://learn.udacity.com/courses/ud123).**
 
   <details>
@@ -88,7 +94,7 @@ Plus, I've passed [Coursera Git Intro course](https://www.coursera.org/learn/int
 **2. The HTTP Protocol [part 1](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177) / [part 2](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)**
 
 > Although in the 2nd part of this article the authors wrote that it was more complicated than the 1st, I found the second part to be much clearer. Maybe because it was more familiar to me than the first one, which was very dry in its description of the request/response messages. I'm going to take a course on Udacity [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256) from the optional materials, where I hope the client-server interaction chain will be described more consistently and with more lively examples.
- 
+
 > To be able to say where and how I will use the knowledge from this article, I should probably go deeper into the development process itself. The Linux command line is an understandable scenario that is very similar to using the command line for Git. And the HTTP protocol theory will come in handy, as I expect, when we will move on to JS.
 
 ---
@@ -130,6 +136,7 @@ Plus, I've passed [Coursera Git Intro course](https://www.coursera.org/learn/int
 # Front-End Basics
 
 ## Intro to HTML and CSS
+
 **1. [Coursera HTML, CSS, and Javascript for Web Developers Course](https://www.coursera.org/learn/html-css-javascript-for-web-developers) Weeks 1 & 2**
 
   <details>
@@ -159,10 +166,11 @@ Plus, I've passed [Coursera Git Intro course](https://www.coursera.org/learn/int
     <summary>Codacademy Learn CSS Course Screenshot</summary>
     <img src="/task_html_css_intro/codacademy_learn-css.jpg" alt="Codacademy Learn CSS Course Progress" width="800">
   </details>
-     
+
 > В принципі, все, що я тут пройшов, мені було відоме, але деякі аспекти я трохи краще зрозумів. Наприклад, властивість ```"position"``` точно потребувала повторення. Безперечно, все що увійшло в цей розділ, я буду використовувати, оскільки це абсолютні основи, на яких тримається HTML та CSS (ну, можливо тільки ```"float"``` не дуже часто, знаючи, яка тема попереду і які сучасні тенденції :wink:).
 
 ## Responsive Web Design
+
 **1. [Responsive web design basics](https://web.dev/i18n/en/responsive-web-design-basics/)**
 
 > Принципи, які викладені в цій статті, я теж раніше вивчав (декілька років тому). І побачив, що за ці роки стосовно ```"viewport"``` та ```@media``` принципових змін не відбулося. "Flexbox" вже тоді був у моді, була тільки відносна складність з сумісністю деяких браузерів. Тепер ще додався "Grid", який став зараз популярним, як я знаю. Тут я додатково побачив, що в панелі розробника Chrome тепер є вбудований інспектор "Lighthouse", який буде корисний, коли інспектуєш свій проєкт з боку Google.
@@ -198,6 +206,7 @@ Plus, I've passed [Coursera Git Intro course](https://www.coursera.org/learn/int
 > Гра дуже схожа на Froggy і сама по собі теж цікава та демонструє Grid простішим, ніж він здається, якщо подивитися вищезгадані уроки. Практика потім покаже, як воно насправді.
 
 ## HTML & CSS Practice
+
 [Demo](https://dmytro-botnarenko.github.io/hooli-style-popup)  
 [Source Files](https://github.com/dmytro-botnarenko/hooli-style-popup)
 > В цьому проєкті для мене новим стало використання чекбоксів у якості перемикачів відображення інших елементів. Також я вперше сам спробував робити сітку на `grid`, раніше мав справу тільки з `flex`.
@@ -207,6 +216,7 @@ Plus, I've passed [Coursera Git Intro course](https://www.coursera.org/learn/int
 > Безперечно `grid` та `flex`, думаю, що без них зараз майже ніяк. Взагалі, враховуючи мій невеликий досвід, все з цього проєкту буде мені в нагоді і так чи інакше буде використовуватися в майбутньому.
 
 ## JS Basics
+
 **1. [Coursera HTML, CSS, and Javascript for Web Developers Course](https://www.coursera.org/learn/html-css-javascript-for-web-developers) Week 4**
 
   <details>
@@ -247,13 +257,37 @@ Plus, I've passed [Coursera Git Intro course](https://www.coursera.org/learn/int
 
 > UPD: коли дійшов до виконання плану DOM, то помітив, що у Intermediate Algorithm Scripting не треба було робити всі завдання, а тільки перші 11. Так ось чому мені передостаннє завдання було трохи не теє...:grimacing:
 
+## DOM
+
+[Demo](https://dmytro-botnarenko.github.io/dom-api-task/)  (not reviewed yet)
+[Source Files](https://github.com/dmytro-botnarenko/dom-api-task) (not reviewed yet)
+
+**1. [Coursera HTML, CSS, and Javascript for Web Developers Course](https://www.coursera.org/learn/html-css-javascript-for-web-developers) Week 5**
+
+  <details>
+    <summary>Coursera HTML, CSS, and Javascript for Web Developers Week 5 Screenshot</summary>
+    <img src="/task_js_dom/coursera_html-css-js_week5_dom.png" alt="Coursera HTML, CSS, and Javascript for Web Developers Week 5" width="800">
+  </details>
+
+**2. [Freecodecamp JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)**
+
+  <details>
+    <summary>Freecodecamp Intermediate Algorithm Scripting Challenges Screenshot</summary>
+    <img src="/task_js_basics/freecodecamp_js_intermediate-algorithm-scripting.jpg" alt="Freecodecamp Intermediate Algorithm Scripting Challenges Screenshot" width="800">
+  </details>
+
+## Building a Tiny JS World
+
+[Demo](https://github.com/dmytro-botnarenko/a-tiny-JS-world)  (not reviewed yet)
+[Source Files](https://dmytro-botnarenko.github.io/a-tiny-JS-world/) (not reviewed yet)
+
 ---
 
-- [ ] 7.Document Object Model :point_left: I'm around here somewhere
+- [ ] 7.Document Object Model
 - [ ] 8.Building a Tiny JS World (pre-OOP)
-- [ ] 9.Object oriented JS 
-- [ ] 10.OOP exercise 
-- [ ] 11.Offline Web Applications 
-- [ ] 12.Memory pair game 
-- [ ] 13.Website Performance Optimization 
+- [ ] 9.Object oriented JS :point_left: I'm around here somewhere
+- [ ] 10.OOP exercise
+- [ ] 11.Offline Web Applications
+- [ ] 12.Memory pair game
+- [ ] 13.Website Performance Optimization
 - [ ] 14.Friends App
