@@ -24,7 +24,7 @@
 
 - [ ] **Building a Tiny JS World (pre-OOP)** (Pending)
 - [ ] **Object oriented JS** (Pending)
-- [ ] **OOP exercise**
+- [ ] **OOP exercise** (Pending)
 - [ ] **Offline Web Applications**
 - [ ] **Memory pair game**
 - [ ] **Website Performance Optimization**
@@ -279,14 +279,21 @@ Plus, I've passed [Coursera Git Intro course](https://www.coursera.org/learn/int
 ## Building a Tiny JS World
 
 [Demo](https://github.com/dmytro-botnarenko/a-tiny-JS-world)  (not reviewed yet)
-[Source Files](https://dmytro-botnarenko.github.io/a-tiny-JS-world/) (not reviewed yet)
+[Source Files](https://dmytro-botnarenko.github.io/a-tiny-JS-world) (not reviewed yet)
+
+## Object Oriented JS
+
+[Demo](https://dmytro-botnarenko.github.io/classic_frogger_game/)  (not reviewed yet)
+[Source Files](https://github.com/dmytro-botnarenko/classic_frogger_game/) (not reviewed yet)
+
+[Codewars Profile](https://www.codewars.com/users/dmytro-botnarenko)
 
 ---
 
 - [ ] 7.Document Object Model
 - [ ] 8.Building a Tiny JS World (pre-OOP)
-- [ ] 9.Object oriented JS :point_left: I'm around here somewhere
-- [ ] 10.OOP exercise
+- [ ] 9.Object oriented JS
+- [ ] 10.OOP exercise :point_left: I'm around here somewhere
 - [ ] 11.Offline Web Applications
 - [ ] 12.Memory pair game
 - [ ] 13.Website Performance Optimization
